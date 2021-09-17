@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Will
-- 👀 I’m interested in FPGA design
+- 👀 I’m interested in Embedded design & artificial intelligence
 - 🌱 I’m currently learning Electrical Engineering, concentrate in mechine intellegence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me william96ming@gmail.com
 
 <!---
